@@ -1,3 +1,6 @@
+# 🌍 Hi, I'M M AtiQur RahMan <br>
+👍 I'M a Programmer and Full-stack Web Developer.
+
 # 💫 About Me:
 🔭 I’m currently working on Web Development<br>👯 I’m looking to Create any Type of Website<br>🤝 I’m looking for help with developing a Website<br>💬 Ask me about Web Related Questions<br>⚡ Fun fact - I am lazy but Smart<br>
 
@@ -14,8 +17,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=devatiqur &icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
